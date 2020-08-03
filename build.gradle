@@ -5,7 +5,7 @@ buildscript {
     repositories {
         jcenter()
         google()
-        //这里是 LeanCloud 的包仓库
+        //This is the storage on Leancloud
         maven { url 'http://repo.maven.apache.org/maven2' }
     }
     dependencies {
@@ -22,7 +22,7 @@ allprojects {
 
         jcenter()
         google()
-        //这里是 LeanCloud 的包仓库
+        //This is the storage on Leancloud
         maven { url 'http://repo.maven.apache.org/maven2' }
     }
 }
