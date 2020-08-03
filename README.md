@@ -22,4 +22,6 @@ Leancloud Server Programming and Maintainance: Charlie Liu, Kevin Yu
 
 App Website Programming and Maintainance: Charlie Liu, Kevin Yu
 
+Github Upload: Alan Tao, Andre He
+
 *Thank you all for being a wonderful team
